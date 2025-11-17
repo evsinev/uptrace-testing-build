@@ -1,5 +1,7 @@
 Languages: **English** | [简体中文](README.zh.md)
 
+Trigger build 01
+
 # Open source APM: OpenTelemetry traces, metrics, and logs
 
 [![build workflow](https://github.com/uptrace/uptrace/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/uptrace/uptrace/actions)
